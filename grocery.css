@@ -9,11 +9,12 @@ section{
 h2{
     background-color: beige;
     border: solid black 1px;
-
+    width: 432px;
 }
 
 h3{
     text-align: center;
+    background-color: grey;
 }
 
 h1{
