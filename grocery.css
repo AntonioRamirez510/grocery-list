@@ -4,6 +4,7 @@ section{
     width: 200px;
     margin: 10px;
     display: inline-block;
+    border: solid thin black;
 }
 
 h2{
@@ -20,6 +21,7 @@ h3{
 h1{
     text-align: center;
     color: teal;
+    background-color: white;
 }
 
 /* #pantry-items{
